@@ -54,10 +54,6 @@ startButton.addEventListener('click', () => {
   const difference = selectedDate - currentDate;
   startButton.disabled = true;
   datetimePicker.disabled = true;
-<<<<<<< HEAD
-
-=======
->>>>>>> c8c383e37ab99c793b065f59fa3b72f1219a30c4
 
   clearInterval(countdownInterval);
   countdownInterval = setInterval(() => {
