@@ -2,10 +2,31 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
+<<<<<<< Updated upstream
   "homepage": "https://MariaZhantal.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "homepage": "https://MariaZhantal.github.io/goit-js-hw-08",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+=======
+  "homepage": "https://MariaZhantal.github.io/goit-js-hw-09",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+>>>>>>> 6043abfa3ef2676bf8e7b0dd06e8f63c21888d4a
+=======
+  "homepage": "https://MariaZhantal.github.io/goit-js-hw-09",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+>>>>>>> 6043abfa3ef2676bf8e7b0dd06e8f63c21888d4a
+>>>>>>> Stashed changes
   },
   "repository": {
     "type": "git",
@@ -18,9 +39,28 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+<<<<<<< Updated upstream
     "flatpickr": "^4.6.13",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.7"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "@vimeo/player": "^2.21.0",
+    "lodash.throttle": "^4.1.1",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.14.2"
+=======
+    "flatpickr": "^4.6.13",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.7"
+>>>>>>> 6043abfa3ef2676bf8e7b0dd06e8f63c21888d4a
+=======
+    "flatpickr": "^4.6.13",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.7"
+>>>>>>> 6043abfa3ef2676bf8e7b0dd06e8f63c21888d4a
+>>>>>>> Stashed changes
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
